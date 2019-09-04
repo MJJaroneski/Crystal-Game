@@ -1,0 +1,26 @@
+body{
+    background-image: url(https://media.giphy.com/media/i24URyRsZkcso/giphy.gif);
+    background-repeat: repeat;
+    font-family:'Work Sans', sans-serif;
+}
+.jumbotron{
+    width: 500px;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 20px;
+    background-color: #128E77;
+    font-family: 'Bungee Shade', cursive;
+    
+}
+h1{
+    font-size: 60px;
+}
+.card-header{
+    background-color:#8E1229;
+    color: white;
+    font-family: 'Bungee', cursive;
+    font-size: 30px;
+}
+div{
+    border:0px;
+}
